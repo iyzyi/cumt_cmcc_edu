@@ -7,5 +7,5 @@
 
 [我球球你不要再用PyQt开发windows程序啦](http://iyzyi.com/index.php/archives/212/)
 
-[[PyQt5真香啊](http://iyzyi.com/index.php/archives/216/)](http://iyzyi.com/index.php/archives/216/)
+[PyQt5真香啊](http://iyzyi.com/index.php/archives/216/)
 
